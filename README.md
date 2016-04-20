@@ -8,7 +8,7 @@ Although we are trying this guide to be as correct as possible, it's possible th
 explaintation given is far from perfect. We apologize in those cases, and every issue or pull request made to correct those
 things will be more than welcome.
 
-That said, any of the Authors holds any responsability of any damage, loss or perjudice taken by following this guide. Use at your
+That said, none of the Authors hold any responsability for any damage, loss or perjudice taken by following this guide. Use at your
 own risk.
 
 [next >>](/guide/1-Introduction.md)
